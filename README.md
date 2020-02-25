@@ -1,8 +1,8 @@
 # hsco-bro-20
  
-Head Start Collaboration Office Brochure 2020
+# Head Start Collaboration Office Brochure 2020
 
-Visualizing the past five years of Head Start in Oklahoma.
+# Visualizing the past five years of Head Start in Oklahoma
 
 Data is from the Head Start Program Information Report.
 
